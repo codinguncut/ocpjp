@@ -1,7 +1,7 @@
 # OCPJP Syllabus
 
 ## 03 Class Design
-* asdf
+* a
 
 ## 04 Advanced Class Design
 
