@@ -73,3 +73,7 @@ http://docs.oracle.com/javase/tutorial/collections/interfaces/QandE/questions.ht
 http://docs.oracle.com/javase/tutorial/collections/implementations/QandE/questions.html
 http://docs.oracle.com/javase/tutorial/datetime/iso/QandE/questions.html
 
+
+# Further Resources
+http://www.freejavaguide.com/java-scjp-part1.pdf
+
