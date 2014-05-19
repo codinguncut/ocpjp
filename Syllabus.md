@@ -46,7 +46,18 @@
     * wildcard
 * collection
     * "components"
+        * ArrayList
+        * LinkedList
+        * HashSet
+        * TreeSet
+        * HashMap
+        * TreeMap
+        * PriorityQueue
+    * Iterator
     * algorithms
+        * sort
+        * search
+        * shuffle
     * arrays
 
 
@@ -132,3 +143,10 @@
     * ThreadLocalRandom
     * TimeUnit
 * Parallel Fork/Join
+
+
+## Other
+* double brace syntax. done 
+
+## Resources
+* http://docs.oracle.com/javase/tutorial/reallybigindex.html
