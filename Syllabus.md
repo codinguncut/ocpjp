@@ -144,6 +144,92 @@
     * TimeUnit
 * Parallel Fork/Join
 
+# TODO
+## Prio 1
+* IO 
+    * Console
+    * Byte Stream, Char Stream
+* NIO
+    * Path
+        * relativize
+        * check, delete, copy, move
+        * read attributes
+        * recurse
+        * PathMatcher
+    * Files
+    * Tree Visitor
+    * PatchMatcher
+* JDBC
+    * Statement
+    * Connection
+    * execute
+        * ...Query
+        * ...Update
+    * ResultSet
+    * Savepoint, commit, autocommit, rollback
+* Localization
+    * Locale
+    * resource bundle, list
+    * NumberFormat, DateFormat
+* Concurrency
+    * atomic vars
+    * overview of java.util.concurrent
+    * fork, join
+    * locks
+    * TimeUnit
+    * ThreadLocalRandom
+* Collections
+    * iterable
+        * collection
+        * list
+        * set
+        * queue
+    * map
+    * sort/search arrays and lists
+
+## Prio 2
+* Strings
+    * StringBuffer
+    * StringBuilder
+* regex
+    * pattern
+    * matcher
+* JDBC 2
+    * RowSet
+        * Factory
+        * Provider
+* NIO 2
+    * WatchService
+* Concurrency 2
+    * Executor, ThreadPool
+    * Exchanger
+    * CyclicBarrier
+    * Phaser
+    * Concurrent Collections
+    * Atomics Vars/Locks
+    * Conditions
+    * Callable
+    * Future
+    * ExecutorService
+    * ThreadFactory
+
+## Prio 3
+* Exceptions
+    * chained
+    * rethrow
+* DAO
+* Factory
+* Autocloseable vs. Closeable
+* Inheritance
+    * (dynamic) downcast?
+    * UML diagram
+    * can you call outer class constructor from inner?
+* Generics
+    * Raw types interop. with generics
+* comparator, comparable
+* virtual method invocation?
+* Other
+    * BigDecimal
 
 ## Other
 * double brace syntax. done 
